@@ -409,6 +409,12 @@ body[dir="ltr"] {
 }
 
 @media (max-width: 768px) {
+    .container {
+        padding: 1rem;
+    }
+    .results-grid {
+        grid-template-columns: 1fr;
+    }
     .search-box {
         flex-direction: column;
     }
@@ -416,6 +422,13 @@ body[dir="ltr"] {
         padding: 1rem;
     }
     .gradient-text {
-        font-size: 2rem;
+        font-size: 1.8rem;
+    }
+    .main-nav {
+        gap: 0.8rem;
+    }
+    .main-nav a {
+        font-size: 0.9rem;
+        padding: 0.3rem 0.6rem;
     }
 }
