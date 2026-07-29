@@ -1,4 +1,4 @@
-const CACHE_NAME = 'parts-matrix-v1';
+const CACHE_NAME = 'parts-matrix-v2';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
@@ -7,7 +7,9 @@ const ASSETS_TO_CACHE = [
     './batteries.json',
     './compatibilities.json',
     './lcds.json',
-    './manifest.json'
+    './manifest.json',
+    './icons/icon-192.png',
+    './icons/icon-512.png'
 ];
 
 // Install Event
