@@ -9,7 +9,6 @@ const dict = {
         filter_batteries: "بطاريات",
         no_results: "لم يتم العثور على نتائج.",
         compatible_with: "يتوافق مع:",
-        buy_now: "ابحث للشراء في AliExpress",
         screen_badge: "شاشة",
         battery_badge: "بطارية"
     },
@@ -23,7 +22,6 @@ const dict = {
         filter_batteries: "Batteries",
         no_results: "No results found.",
         compatible_with: "Compatible with:",
-        buy_now: "Search on AliExpress",
         screen_badge: "Screen",
         battery_badge: "Battery"
     },
@@ -37,7 +35,6 @@ const dict = {
         filter_batteries: "Batteries",
         no_results: "Aucun résultat trouvé.",
         compatible_with: "Compatible avec :",
-        buy_now: "Rechercher sur AliExpress",
         screen_badge: "Écran",
         battery_badge: "Batterie"
     }
@@ -200,9 +197,6 @@ function renderResults(data) {
         const badgeClass = item.type === 'screen' ? 'badge-screen' : 'badge-battery';
         const badgeText = item.type === 'screen' ? t.screen_badge : t.battery_badge;
         
-        // Search link (example: Aliexpress search URL)
-        const searchUrl = `https://www.aliexpress.com/wholesale?SearchText=${encodeURIComponent(item.ref)}`;
-
         return `
             <div class="result-card glass-card">
                 <div class="card-header">
@@ -215,7 +209,6 @@ function renderResults(data) {
                         ${item.models.map(model => `<span class="model-tag">${model}</span>`).join('')}
                     </div>
                 </div>
-                <a href="${searchUrl}" target="_blank" class="btn-buy">${t.buy_now}</a>
             </div>
         `;
     }).join('');
