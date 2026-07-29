@@ -167,6 +167,8 @@ template = """<!DOCTYPE html>
 print("Generating SPINTAX MULTILINGUAL SEO articles...")
 count = 0
 blog_index_html = {"en": "", "ar": "", "fr": ""}
+sitemap_urls = []
+base_url = "https://vitamin-checker.github.io"
 
 head_blog = head_raw.replace("{base}", "../..")
 header_blog = header_raw.replace("{base}", "../..")
@@ -225,6 +227,9 @@ for item in all_items:
                 schema_json=schema_json, head_content=head_blog,
                 header_content=header_blog, footer_content=footer_blog
             ))
+        
+        # Add to sitemap
+        sitemap_urls.append(f"{base_url}/blog/{lang}/{filename}")
         count += 1
 
 index_template_str = """<!DOCTYPE html>
@@ -280,5 +285,29 @@ for page in ["index.html", "about.html", "contact.html", "privacy.html"]:
     
     with open(page, "w", encoding="utf-8") as f:
         f.write(page_content)
+    sitemap_urls.append(f"{base_url}/{page}")
 
-print(f"Successfully generated {count} SPINTAX MULTILINGUAL SEO articles!")
+# Add language blog indices to sitemap
+sitemap_urls.append(f"{base_url}/blog/ar/index.html")
+sitemap_urls.append(f"{base_url}/blog/en/index.html")
+sitemap_urls.append(f"{base_url}/blog/fr/index.html")
+
+# Generate sitemap.xml
+print("Generating sitemap.xml...")
+sitemap_content = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+for url in sitemap_urls:
+    # Escape ampersands if any exist
+    clean_url = url.replace("&", "&amp;")
+    sitemap_content += f"  <url>\n    <loc>{clean_url}</loc>\n    <changefreq>weekly</changefreq>\n  </url>\n"
+sitemap_content += '</urlset>'
+
+with open("sitemap.xml", "w", encoding="utf-8") as f:
+    f.write(sitemap_content)
+
+# Generate robots.txt
+print("Generating robots.txt...")
+robots_txt = f"User-agent: *\nAllow: /\n\nSitemap: {base_url}/sitemap.xml\n"
+with open("robots.txt", "w", encoding="utf-8") as f:
+    f.write(robots_txt)
+
+print(f"Successfully generated {count} SPINTAX MULTILINGUAL SEO articles, sitemap.xml, and robots.txt!")
