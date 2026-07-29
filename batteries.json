@@ -1,0 +1,1608 @@
+[
+  {
+    "battery_ref": "BN5D",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 11 4G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 11S"
+      },
+      {
+        "brand": "Poco",
+        "model": "M4 Pro 4G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN46",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 8"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 7"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Y3"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 8T"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN57",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "X3 NFC"
+      },
+      {
+        "brand": "Poco",
+        "model": "X3 Pro"
+      },
+      {
+        "brand": "Poco",
+        "model": "X3"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN5A",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 10 4G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 10S"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN53",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 9S"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 9 Pro"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 9 Pro Max"
+      },
+      {
+        "brand": "Poco",
+        "model": "M2 Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN54",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 9 4G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 9T"
+      },
+      {
+        "brand": "Poco",
+        "model": "M3"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN59",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 10 Pro"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 10 Pro Max"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN5B",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 11 Pro 4G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 11 Pro 5G"
+      },
+      {
+        "brand": "Poco",
+        "model": "X4 Pro 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN5E",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 12 4G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 12 5G"
+      },
+      {
+        "brand": "Poco",
+        "model": "X5 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN5G",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 12 Pro 5G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 12 Pro+ 5G"
+      },
+      {
+        "brand": "Poco",
+        "model": "X5 Pro 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN5K",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 13C 4G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 13C 5G"
+      },
+      {
+        "brand": "Poco",
+        "model": "C65"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN45",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 5 Pro"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 5"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN48",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 7"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 7 Pro"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 7S"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN51",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 8"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 8A"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 8A Dual"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BN52",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 9 4G (Global)"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 10X 4G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP729",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A5 2020"
+      },
+      {
+        "brand": "Oppo",
+        "model": "A9 2020"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme 5"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme 5i"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme 5s"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme 6i"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP827",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A54 4G"
+      },
+      {
+        "brand": "Oppo",
+        "model": "A74 4G"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme 8 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP793",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C11"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme C12"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme C15"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme Narzo 30A"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP807",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A15"
+      },
+      {
+        "brand": "Oppo",
+        "model": "A15S"
+      },
+      {
+        "brand": "Oppo",
+        "model": "A35"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP837",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A16"
+      },
+      {
+        "brand": "Oppo",
+        "model": "A16S"
+      },
+      {
+        "brand": "Oppo",
+        "model": "A54S"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP879",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme 9i"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme C35"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme Narzo 50"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP865",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme 8 4G"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme 8 Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP757",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme 6"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme 6 Pro"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme 7 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP907",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C30"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme C31"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme C33"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme C30S"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA125ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A12"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A02S"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy M12"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A13"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A03S"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A04"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA505ABU",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A50"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A30s"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A50s"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A20"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A30"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA515ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A51"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA526ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A52"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A52s 5G"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A53 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA546ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A54 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BS901ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S22 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BS906ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S22 Plus"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BS908ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S22 Ultra"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S23 Ultra"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BS911ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S23 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BS916ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S23 Plus"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BS928ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S24 Ultra"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BL-49FX",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 10 Play"
+      },
+      {
+        "brand": "Infinix",
+        "model": "Hot 11 Play"
+      },
+      {
+        "brand": "Infinix",
+        "model": "Smart 6 Plus"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BL-58BX",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 10 Lite"
+      },
+      {
+        "brand": "Infinix",
+        "model": "Smart 5"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BL-49GX",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 11S"
+      },
+      {
+        "brand": "Tecno",
+        "model": "Camon 18"
+      },
+      {
+        "brand": "Tecno",
+        "model": "Camon 18P"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BL-49HX",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 12"
+      },
+      {
+        "brand": "Infinix",
+        "model": "Hot 12i"
+      },
+      {
+        "brand": "Infinix",
+        "model": "Smart 7"
+      }
+    ]
+  },
+  {
+    "battery_ref": "A2479",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 12"
+      },
+      {
+        "brand": "Apple",
+        "model": "iPhone 12 Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "A2653",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 13 mini"
+      }
+    ]
+  },
+  {
+    "battery_ref": "A2656",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 13"
+      }
+    ]
+  },
+  {
+    "battery_ref": "A2659",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 13 Pro Max"
+      }
+    ]
+  },
+  {
+    "battery_ref": "A2860",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 14"
+      }
+    ]
+  },
+  {
+    "battery_ref": "A3131",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 15"
+      }
+    ]
+  },
+  {
+    "battery_ref": "A3135",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 15 Pro Max"
+      }
+    ]
+  },
+  {
+    "battery_ref": "iPhone 16 Battery",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 16"
+      }
+    ]
+  },
+  {
+    "battery_ref": "G9S9B",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 6"
+      }
+    ]
+  },
+  {
+    "battery_ref": "G1S60",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 6A"
+      }
+    ]
+  },
+  {
+    "battery_ref": "GWKK3",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 7"
+      }
+    ]
+  },
+  {
+    "battery_ref": "G032A",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 8"
+      }
+    ]
+  },
+  {
+    "battery_ref": "Pixel 9 Battery",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 9"
+      },
+      {
+        "brand": "Google",
+        "model": "Pixel 9 Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB826897ECW",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Y9 Prime 2019"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Y9s"
+      },
+      {
+        "brand": "Huawei",
+        "model": "P Smart Pro"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor 9X"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor 9X Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB396286ECW",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "P Smart 2019"
+      },
+      {
+        "brand": "Huawei",
+        "model": "P20 Lite"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Nova 3E"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor 10 Lite"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor 20 Lite"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB405979ECW",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Y5 2017"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Y5 2018"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Y6 2019"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Y5 Lite"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor 7S"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor 8S"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB436486ECW",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Mate 10"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Mate 10 Pro"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Mate 20"
+      },
+      {
+        "brand": "Huawei",
+        "model": "P20 Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB486486ECW",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "P30 Pro"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Mate 20 Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB356687ECW",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Nova 2 Plus"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Nova 3i"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Mate 10 Lite"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor 7X"
+      }
+    ]
+  },
+  {
+    "battery_ref": "B-O5",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y20"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y20S"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y20i"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y12S"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y15S"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y30"
+      }
+    ]
+  },
+  {
+    "battery_ref": "B-K6",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y91"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y91i"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y93"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y95"
+      }
+    ]
+  },
+  {
+    "battery_ref": "B-S1",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y17"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y12"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y15"
+      },
+      {
+        "brand": "Vivo",
+        "model": "Y3"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP801",
+    "brand_ref": "OnePlus",
+    "compatible_models": [
+      {
+        "brand": "OnePlus",
+        "model": "Nord N100"
+      },
+      {
+        "brand": "Oppo",
+        "model": "A53 2020"
+      },
+      {
+        "brand": "Oppo",
+        "model": "A32"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP813",
+    "brand_ref": "OnePlus",
+    "compatible_models": [
+      {
+        "brand": "OnePlus",
+        "model": "Nord N10 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP855",
+    "brand_ref": "OnePlus",
+    "compatible_models": [
+      {
+        "brand": "OnePlus",
+        "model": "Nord CE 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BN970ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Note 10"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BN972ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Note 10 Plus"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BN980ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Note 20"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BN985ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Note 20 Ultra"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BG990ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S21 FE 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BS921ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S24"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BS926ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S24 Plus"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BM5T",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 4G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 5G"
+      },
+      {
+        "brand": "Poco",
+        "model": "M6 Pro 4G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BM5W",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 Pro 5G"
+      },
+      {
+        "brand": "Poco",
+        "model": "X6 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BM5X",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 Pro+ 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "WT242",
+    "brand_ref": "Nokia",
+    "compatible_models": [
+      {
+        "brand": "Nokia",
+        "model": "2.3"
+      },
+      {
+        "brand": "Nokia",
+        "model": "2.4"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HE342",
+    "brand_ref": "Nokia",
+    "compatible_models": [
+      {
+        "brand": "Nokia",
+        "model": "5.1 Plus"
+      },
+      {
+        "brand": "Nokia",
+        "model": "6.1 Plus"
+      }
+    ]
+  },
+  {
+    "battery_ref": "CN510",
+    "brand_ref": "Nokia",
+    "compatible_models": [
+      {
+        "brand": "Nokia",
+        "model": "G10"
+      },
+      {
+        "brand": "Nokia",
+        "model": "G20"
+      },
+      {
+        "brand": "Nokia",
+        "model": "G21"
+      },
+      {
+        "brand": "Nokia",
+        "model": "G22"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BL-49FI",
+    "brand_ref": "Itel",
+    "compatible_models": [
+      {
+        "brand": "Itel",
+        "model": "A56"
+      },
+      {
+        "brand": "Itel",
+        "model": "A56 Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BL-49L1",
+    "brand_ref": "Itel",
+    "compatible_models": [
+      {
+        "brand": "Itel",
+        "model": "Vision 1"
+      },
+      {
+        "brand": "Itel",
+        "model": "Vision 1 Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "JK50",
+    "brand_ref": "Moto",
+    "compatible_models": [
+      {
+        "brand": "Moto",
+        "model": "G10"
+      },
+      {
+        "brand": "Moto",
+        "model": "G10 Power"
+      },
+      {
+        "brand": "Moto",
+        "model": "G20"
+      },
+      {
+        "brand": "Moto",
+        "model": "G30"
+      }
+    ]
+  },
+  {
+    "battery_ref": "KG40",
+    "brand_ref": "Moto",
+    "compatible_models": [
+      {
+        "brand": "Moto",
+        "model": "G22"
+      },
+      {
+        "brand": "Moto",
+        "model": "G31"
+      },
+      {
+        "brand": "Moto",
+        "model": "G41"
+      },
+      {
+        "brand": "Moto",
+        "model": "G52"
+      },
+      {
+        "brand": "Moto",
+        "model": "G82"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BM58",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "11T"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "11T Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BP42",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Mi 11 Lite 4G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "Mi 11 Lite 5G"
+      },
+      {
+        "brand": "Xiaomi",
+        "model": "11 Lite 5G NE"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP987",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C51"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme C51s"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme Note 50"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP997",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C53"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme C55"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme Narzo N53"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BLP923",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C35"
+      },
+      {
+        "brand": "Realme",
+        "model": "Realme C31"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA146ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A14"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A14 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA156ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A15"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A15 5G"
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A25 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA246ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A24 4G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA346ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A34 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA356ABY",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A35 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA546ABY-S",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A54 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "EB-BA556ABY-S",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A55 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB526489EEW",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X6"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor X6s"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor X8 5G"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor Play 30 Plus"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB4973A4ECW",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X7"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor X7a"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Nova Y70"
+      },
+      {
+        "brand": "Huawei",
+        "model": "Nova Y70 Plus"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB466497EEW",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X8"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor X8a"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor X9 5G"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB536487ECW",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X9a"
+      },
+      {
+        "brand": "Honor",
+        "model": "Honor Magic 5 Lite"
+      }
+    ]
+  },
+  {
+    "battery_ref": "HB556590EEW",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X9b"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BL-49SF",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 30i"
+      },
+      {
+        "brand": "Infinix",
+        "model": "Smart 8"
+      },
+      {
+        "brand": "Tecno",
+        "model": "Spark 20C"
+      },
+      {
+        "brand": "Tecno",
+        "model": "Pop 8"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BL-49XX",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 30"
+      },
+      {
+        "brand": "Infinix",
+        "model": "Note 30"
+      },
+      {
+        "brand": "Infinix",
+        "model": "Note 30 Pro"
+      },
+      {
+        "brand": "Tecno",
+        "model": "Spark 20 Pro"
+      }
+    ]
+  },
+  {
+    "battery_ref": "BL-49ZZ",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 40 Pro"
+      },
+      {
+        "brand": "Infinix",
+        "model": "Hot 40"
+      },
+      {
+        "brand": "Tecno",
+        "model": "Spark 20 Pro+"
+      }
+    ]
+  }
+]

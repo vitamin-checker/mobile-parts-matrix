@@ -1,0 +1,16 @@
+{
+  "name": "Mobile Parts Matrix",
+  "short_name": "PartsMatrix",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "description": "Find compatible screens and batteries for mobile phones.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3655/3655610.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

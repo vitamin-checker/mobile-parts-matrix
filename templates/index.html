@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    {head_content}
+    <title>Mobile Parts Matrix - توافق الشاشات والبطاريات</title>
+</head>
+<body>
+    <!-- Background Effects -->
+    <div class="background-effects">
+        <div class="glow glow-1"></div>
+        <div class="glow glow-2"></div>
+    </div>
+
+    <!-- Language Popup -->
+    <div id="langPopup" class="popup-overlay active">
+        <div class="popup-content glass-card">
+            <h2 id="popupTitle">اختر لغتك<br><br>Select Language<br><br>Choisissez votre langue</h2>
+            <div class="lang-buttons">
+                <button onclick="setLanguage('ar')" class="btn-lang">العربية</button>
+                <button onclick="setLanguage('en')" class="btn-lang">English</button>
+                <button onclick="setLanguage('fr')" class="btn-lang">Français</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Container -->
+    <main class="container">
+        <!-- Header -->
+        {header_content}
+
+        <!-- Search Bar -->
+        <section class="search-section">
+            <div class="search-box glass-card">
+                <input type="text" id="searchInput" placeholder="ابحث باسم الهاتف أو رقم القطعة (مثال: Redmi Note 11 أو BN5D)" autocomplete="off">
+                <button id="searchBtn" class="btn-primary">بحث</button>
+            </div>
+            
+            <div class="filters">
+                <button class="filter-btn active" data-filter="all" id="filterAll">الكل</button>
+                <button class="filter-btn" data-filter="screen" id="filterScreens">شاشات</button>
+                <button class="filter-btn" data-filter="battery" id="filterBatteries">بطاريات</button>
+                
+                <!-- زر التحديث المجتمعي -->
+                <a href="https://forms.gle/your_google_form_link" target="_blank" class="filter-btn" id="btnSuggest" style="background: var(--primary); color: white; border-color: var(--primary); text-decoration: none; display: flex; align-items: center; gap: 0.5rem;">
+                    ➕ <span id="suggestText">اقتراح توافق جديد</span>
+                </a>
+            </div>
+        </section>
+
+        <!-- Results Area -->
+        <section class="results-section">
+            <div id="loading" class="hidden">
+                <div class="spinner"></div>
+            </div>
+            <div id="resultsContainer" class="results-grid">
+                <!-- Results will be injected here -->
+            </div>
+            <div id="noResults" class="hidden text-center text-muted">
+                <p>لم يتم العثور على نتائج.</p>
+            </div>
+        </section>
+        
+        {footer_content}
+    </main>
+
+    <script src="js/app.js"></script>
+    <script>
+        // PWA Service Worker Registration
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(reg => console.log('Service Worker Registered!', reg))
+                    .catch(err => console.error('Service Worker Error', err));
+            });
+        }
+    </script>
+</body>
+</html>

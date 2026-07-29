@@ -1,0 +1,3520 @@
+[
+  {
+    "screen_ref": "12 - 12PRO",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "12"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "12 PRO"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A12",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A12"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A13"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A23"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A02"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A02S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A03"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A03S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A03 CORE"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A04"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A04S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A04E"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A04 CORE"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M02"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M12"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A32 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F02"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F02S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F12"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M13"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F13"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M32 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F04"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M04"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A5 2020"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A9 2020"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A8"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A11"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A11X"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A15"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A15S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A16"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A16S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A16E"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A16K"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A17"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A17K"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A18"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A31"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A35"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A38"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A53S 4G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A53S 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A54S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A55 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A55S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A56 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A56S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A57 4G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A57 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A57E"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A57S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A58 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A58X"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A77 4G-5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A77S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A78 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A97 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "5"
+      },
+      {
+        "brand": "REALME",
+        "model": "5S"
+      },
+      {
+        "brand": "REALME",
+        "model": "5I"
+      },
+      {
+        "brand": "REALME",
+        "model": "6I"
+      },
+      {
+        "brand": "REALME",
+        "model": "6I GLOBAL"
+      },
+      {
+        "brand": "REALME",
+        "model": "10 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "C3"
+      },
+      {
+        "brand": "REALME",
+        "model": "C11"
+      },
+      {
+        "brand": "REALME",
+        "model": "C12"
+      },
+      {
+        "brand": "REALME",
+        "model": "C15"
+      },
+      {
+        "brand": "REALME",
+        "model": "C21Y"
+      },
+      {
+        "brand": "REALME",
+        "model": "C25"
+      },
+      {
+        "brand": "REALME",
+        "model": "C25S"
+      },
+      {
+        "brand": "REALME",
+        "model": "C25Y"
+      },
+      {
+        "brand": "REALME",
+        "model": "C35"
+      },
+      {
+        "brand": "REALME",
+        "model": "C31"
+      },
+      {
+        "brand": "REALME",
+        "model": "V3"
+      },
+      {
+        "brand": "REALME",
+        "model": "V11 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "Q2I"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 30A"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 10A"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 10"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 50A"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 50I"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 50A PRIME"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 50I PRIME"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 50 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 20"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 20A"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y01"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y02"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y11 2023"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y12S"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y16"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y20"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y21"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y22"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y30 5G"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y31"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y32"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y33"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y35"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y52S"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y54S"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y55 5G"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y56 5G"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y72 5G"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y73T"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y74S"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y75 5G"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y76 5G"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y77 5G"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y17S"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y28 5G"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y37 5G"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y03T"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X5 2022"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X6 2022"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X6A 2023"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X8 5G 2022"
+      },
+      {
+        "brand": "HONOR",
+        "model": "70 LITE"
+      },
+      {
+        "brand": "NOVA",
+        "model": "Y61"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X6S 5G"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X5 PLUS"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X5B"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X5B PLUS"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X6B"
+      },
+      {
+        "brand": "HONOR",
+        "model": "PLAY 9C"
+      },
+      {
+        "brand": "POCO",
+        "model": "M4 5G"
+      },
+      {
+        "brand": "POCO",
+        "model": "M5"
+      },
+      {
+        "brand": "REDMI",
+        "model": "10 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "11 PRIME"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 11R 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 11E 5G"
+      },
+      {
+        "brand": "NOKIA",
+        "model": "C32"
+      },
+      {
+        "brand": "NOKIA",
+        "model": "C22"
+      },
+      {
+        "brand": "ITEL",
+        "model": "A60"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "NOTE 30I"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 7 HD"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 30I"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 7"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 12 PRO"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 5 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK GO 2022"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 8C"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 8T"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 8P"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 9"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 9T"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 9 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 10"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 10 5G"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK GO 2023"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A10",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A10"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A10S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M10"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M01S"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y90"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y91"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y91I"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y93"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y93S"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y95"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y1S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A7"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A5S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A12"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A12S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A11K"
+      }
+    ]
+  },
+  {
+    "screen_ref": "X8A",
+    "brand_ref": "HONOR",
+    "compatible_models": [
+      {
+        "brand": "HONOR",
+        "model": "X8A 4G"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X8 2022 4G"
+      },
+      {
+        "brand": "HONOR",
+        "model": "90 LITE"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X30I 4G"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X40I 4G"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA Y90"
+      },
+      {
+        "brand": "ONEPLUS",
+        "model": "NORD 4"
+      },
+      {
+        "brand": "ONEPLUS",
+        "model": "NORD CE4 LITE"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A21"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A21S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F52"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G45"
+      },
+      {
+        "brand": "POCO",
+        "model": "X4 GT"
+      },
+      {
+        "brand": "POCO",
+        "model": "M4 PRO 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 11T 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "K50I"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A11S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A32"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A33"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A36"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A53 4G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A54 4G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A55 4G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A76"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A92S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A96"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 4Z"
+      },
+      {
+        "brand": "REALME",
+        "model": "X3"
+      },
+      {
+        "brand": "REALME",
+        "model": "X50"
+      },
+      {
+        "brand": "REALME",
+        "model": "6 PRO"
+      },
+      {
+        "brand": "REALME",
+        "model": "8I"
+      },
+      {
+        "brand": "REALME",
+        "model": "9I"
+      },
+      {
+        "brand": "REALME",
+        "model": "9 PRO"
+      },
+      {
+        "brand": "REALME",
+        "model": "C17"
+      }
+    ]
+  },
+  {
+    "screen_ref": "SMART 8",
+    "brand_ref": "INFINIX",
+    "compatible_models": [
+      {
+        "brand": "INFINIX",
+        "model": "SMART 8"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 8 HD"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 8 PLUS"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 8 PRO"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 40I"
+      },
+      {
+        "brand": "ITEL",
+        "model": "S24 4G RS4"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 20"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 20C"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK GO 2024"
+      }
+    ]
+  },
+  {
+    "screen_ref": "X7A",
+    "brand_ref": "HONOR",
+    "compatible_models": [
+      {
+        "brand": "HONOR",
+        "model": "X7A"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA Y70"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA Y70 PLUS"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X7 2022"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "PLAY 30 PLUS"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "PLAY 6T"
+      },
+      {
+        "brand": "REALME",
+        "model": "C53"
+      },
+      {
+        "brand": "REALME",
+        "model": "C51"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO N53"
+      },
+      {
+        "brand": "REALME",
+        "model": "NOTE 50"
+      },
+      {
+        "brand": "REALME",
+        "model": "C51S"
+      },
+      {
+        "brand": "REALME",
+        "model": "C63"
+      },
+      {
+        "brand": "REALME",
+        "model": "C61"
+      },
+      {
+        "brand": "REALME",
+        "model": "NOTE 60"
+      },
+      {
+        "brand": "REDMI",
+        "model": "13C 4G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "13C 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "13R"
+      },
+      {
+        "brand": "POCO",
+        "model": "C65"
+      },
+      {
+        "brand": "POCO",
+        "model": "M6 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A05"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A05S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M14 4G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A06"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A06S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A07"
+      }
+    ]
+  },
+  {
+    "screen_ref": "X9 2022",
+    "brand_ref": "HONOR",
+    "compatible_models": [
+      {
+        "brand": "HONOR",
+        "model": "X9 2022"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X9C SMART"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X7B 4G"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X7B 5G"
+      },
+      {
+        "brand": "HONOR",
+        "model": "90 SMART"
+      },
+      {
+        "brand": "HONOR",
+        "model": "PLAY 50 PLUS"
+      },
+      {
+        "brand": "HONOR",
+        "model": "PLAY 8T"
+      },
+      {
+        "brand": "HONOR",
+        "model": "200 SMART"
+      },
+      {
+        "brand": "HONOR",
+        "model": "PLAY 9T 5G"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X7C 4G"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X7C 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "C65 4G"
+      }
+    ]
+  },
+  {
+    "screen_ref": "X8B",
+    "brand_ref": "HONOR",
+    "compatible_models": [
+      {
+        "brand": "HONOR",
+        "model": "X8B"
+      },
+      {
+        "brand": "HONOR",
+        "model": "X8C"
+      },
+      {
+        "brand": "HONOR",
+        "model": "200 LITE"
+      },
+      {
+        "brand": "HONOR",
+        "model": "400 LITE"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 11"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 12"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 12 LITE"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 12S"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 13"
+      }
+    ]
+  },
+  {
+    "screen_ref": "IPHONE 13",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "IPHONE 13"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "IPHONE 13 PRO"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "IPHONE 14"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "IPHONE SE4 2025"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "IPHONE 16E"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A71",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A71"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A81"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A91"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A72"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A73"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M51"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M52"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M53"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M54 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M62"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "S10 LITE"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "NOTE 10 LITE"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "11I"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "11T"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "11T PRO"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "12T"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "12T PRO"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "13T"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "13T PRO"
+      },
+      {
+        "brand": "POCO",
+        "model": "F2 PRO"
+      },
+      {
+        "brand": "POCO",
+        "model": "F3"
+      },
+      {
+        "brand": "POCO",
+        "model": "F4 GT"
+      },
+      {
+        "brand": "POCO",
+        "model": "X4 PRO 5G"
+      },
+      {
+        "brand": "POCO",
+        "model": "X5 PRO"
+      },
+      {
+        "brand": "POCO",
+        "model": "F5 PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 10 PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 11 PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 12 PRO 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE12 PRO+"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 11E PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "K40"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 10 SE"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 11 SE"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 12I"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y200"
+      },
+      {
+        "brand": "VIVO",
+        "model": "V29E"
+      },
+      {
+        "brand": "VIVO",
+        "model": "IQOO Z9 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "10 PRO 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "NARZO 70 PRO 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "12+ 5G"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 20"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 20 PRO"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A51",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A51"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A52"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A52S 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A53"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M31S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "S20 FE"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 10 4G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 10S"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 11"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 11S"
+      },
+      {
+        "brand": "POCO",
+        "model": "M4 PRO 4G"
+      },
+      {
+        "brand": "POCO",
+        "model": "M5S"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A70",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A70"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A70S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A90 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A42 5G"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "NOTE 20"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "NOTE 12 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POVA 4 PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9A"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9C"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9AT"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9I"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9 (INDIA)"
+      },
+      {
+        "brand": "REDMI",
+        "model": "10X 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "10A"
+      },
+      {
+        "brand": "POCO",
+        "model": "C3"
+      },
+      {
+        "brand": "POCO",
+        "model": "C31"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A20",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A20"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A30"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A50"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A30S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A40S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A50S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M10S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M30"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M30S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M21"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M31"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F41"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M31 PRIME"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M21S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M21 2021"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A22 4G",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A22 4G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A31"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A32 4G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A33 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M22 4G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M32 4G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F22"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A22 5G",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A22 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A22S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M33 5G"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 8"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 12I"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 10I"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 4"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 5"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 6"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 6 HD"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 11"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 12"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 6 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 5 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 5X"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 5 LTE"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 7"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 8"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK GO 2020"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 6 GO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A1"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A1+"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A2"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A2+"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA Y60"
+      },
+      {
+        "brand": "REALME",
+        "model": "C20"
+      },
+      {
+        "brand": "REALME",
+        "model": "C21"
+      },
+      {
+        "brand": "REALME",
+        "model": "C11 2021"
+      },
+      {
+        "brand": "REALME",
+        "model": "C30"
+      },
+      {
+        "brand": "REALME",
+        "model": "C30S"
+      },
+      {
+        "brand": "REALME",
+        "model": "C31"
+      },
+      {
+        "brand": "REALME",
+        "model": "C33"
+      },
+      {
+        "brand": "NOKIA",
+        "model": "G42"
+      },
+      {
+        "brand": "NOKIA",
+        "model": "G22"
+      },
+      {
+        "brand": "NOKIA",
+        "model": "G60"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G8 POWER LITE"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G9 PLAY"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G10"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G10 POWER"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G20"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G30"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G50"
+      },
+      {
+        "brand": "MOTO",
+        "model": "E7"
+      },
+      {
+        "brand": "MOTO",
+        "model": "E7I"
+      },
+      {
+        "brand": "MOTO",
+        "model": "E20"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A22 5G",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A22 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A22S"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M33 5G"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 8"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 12i"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 10i"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 4"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 5"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 6"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 6 HD"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 11"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 12"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 6 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 5 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 5X"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 5 LTE"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 7"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 8"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK GO 2020"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 6 GO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A1"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A1+"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A2"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A2+"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA Y60"
+      },
+      {
+        "brand": "REALME",
+        "model": "C20"
+      },
+      {
+        "brand": "REALME",
+        "model": "C21"
+      },
+      {
+        "brand": "REALME",
+        "model": "C11 2021"
+      },
+      {
+        "brand": "REALME",
+        "model": "C30"
+      },
+      {
+        "brand": "REALME",
+        "model": "C30S"
+      },
+      {
+        "brand": "REALME",
+        "model": "C31"
+      },
+      {
+        "brand": "REALME",
+        "model": "C33"
+      },
+      {
+        "brand": "NOKIA",
+        "model": "G42"
+      },
+      {
+        "brand": "NOKIA",
+        "model": "G22"
+      },
+      {
+        "brand": "NOKIA",
+        "model": "G60"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G8 POWER LITE"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G9 PLAY"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G10"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G10 POWER"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G20"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G30"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G50"
+      },
+      {
+        "brand": "MOTO",
+        "model": "E7"
+      },
+      {
+        "brand": "MOTO",
+        "model": "E7i"
+      },
+      {
+        "brand": "MOTO",
+        "model": "E20"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A20S",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A20S"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y19"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Z5I"
+      },
+      {
+        "brand": "VIVO",
+        "model": "U3"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9T"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 8 PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9 PRIME"
+      },
+      {
+        "brand": "POCO",
+        "model": "M2"
+      },
+      {
+        "brand": "POCO",
+        "model": "M3"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F11"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A9"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A20S",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A20S"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y19"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Z5I"
+      },
+      {
+        "brand": "VIVO",
+        "model": "U3"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9T"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 8 PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "9 PRIME"
+      },
+      {
+        "brand": "POCO",
+        "model": "M2"
+      },
+      {
+        "brand": "POCO",
+        "model": "M3"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F11"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A9"
+      }
+    ]
+  },
+  {
+    "screen_ref": "HOT 20",
+    "brand_ref": "INFINIX",
+    "compatible_models": [
+      {
+        "brand": "INFINIX",
+        "model": "HOT 20"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 20 PLAY"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 30 PLAY"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "NOTE 8I"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 10"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 16"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 16 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 6"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POVA"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POVA 4"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POVA NEO 2"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POVA NEO 5G"
+      }
+    ]
+  },
+  {
+    "screen_ref": "HOT 11S",
+    "brand_ref": "INFINIX",
+    "compatible_models": [
+      {
+        "brand": "INFINIX",
+        "model": "HOT 11S"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 17 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 17P"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 18"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 18P"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 18T"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 19"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 19 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 19 NEO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 8 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 10 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 20 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POVA 5"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POVA 5 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POVA 6 NEO"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "ZERO 8"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "ZERO 8I"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 20S"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "NOTE 30"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 30"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 40"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 40 PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "12"
+      },
+      {
+        "brand": "REDMI",
+        "model": "13"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 13R 5G"
+      },
+      {
+        "brand": "POCO",
+        "model": "M6 PRO 5G"
+      }
+    ]
+  },
+  {
+    "screen_ref": "HOT 6",
+    "brand_ref": "INFINIX",
+    "compatible_models": [
+      {
+        "brand": "INFINIX",
+        "model": "HOT 6"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 6 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "N1A"
+      },
+      {
+        "brand": "TECNO",
+        "model": "1004"
+      },
+      {
+        "brand": "TECNO",
+        "model": "X604"
+      },
+      {
+        "brand": "TECNO",
+        "model": "A55"
+      },
+      {
+        "brand": "TECNO",
+        "model": "A56"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 4"
+      },
+      {
+        "brand": "TECNO",
+        "model": "KA7"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 2"
+      },
+      {
+        "brand": "TECNO",
+        "model": "X608"
+      },
+      {
+        "brand": "TECNO",
+        "model": "LB6"
+      },
+      {
+        "brand": "TECNO",
+        "model": "S33"
+      },
+      {
+        "brand": "TECNO",
+        "model": "NOTE 50"
+      },
+      {
+        "brand": "TECNO",
+        "model": "HOT 6"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 6X"
+      },
+      {
+        "brand": "TECNO",
+        "model": "6X PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CA7"
+      }
+    ]
+  },
+  {
+    "screen_ref": "SMART 2",
+    "brand_ref": "INFINIX",
+    "compatible_models": [
+      {
+        "brand": "INFINIX",
+        "model": "SMART 2"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 3"
+      },
+      {
+        "brand": "TECNO",
+        "model": "P13"
+      },
+      {
+        "brand": "TECNO",
+        "model": "P33"
+      },
+      {
+        "brand": "TECNO",
+        "model": "F3"
+      },
+      {
+        "brand": "TECNO",
+        "model": "B1"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 2"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 2F"
+      },
+      {
+        "brand": "TECNO",
+        "model": "X5515"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 2 PRO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POP 2 POWER"
+      },
+      {
+        "brand": "TECNO",
+        "model": "B1P"
+      },
+      {
+        "brand": "TECNO",
+        "model": "P47"
+      },
+      {
+        "brand": "TECNO",
+        "model": "P32"
+      }
+    ]
+  },
+  {
+    "screen_ref": "CAMON 30",
+    "brand_ref": "TECNO",
+    "compatible_models": [
+      {
+        "brand": "TECNO",
+        "model": "CAMON 30 4G"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 30 5G"
+      },
+      {
+        "brand": "TECNO",
+        "model": "POVA 6"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "NOTE 40"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "GT 20 PRO"
+      },
+      {
+        "brand": "REALME",
+        "model": "C65 5G"
+      }
+    ]
+  },
+  {
+    "screen_ref": "POVA NEO",
+    "brand_ref": "TECNO",
+    "compatible_models": [
+      {
+        "brand": "TECNO",
+        "model": "POVA NEO"
+      },
+      {
+        "brand": "TECNO",
+        "model": "SPARK 7P"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 9 PLAY"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 10 PLAY"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 11 PLAY"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 10S"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 10S NFC"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "HOT 10T"
+      },
+      {
+        "brand": "INFINIX",
+        "model": "SMART 6 PLUS"
+      }
+    ]
+  },
+  {
+    "screen_ref": "J4+",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "J4+"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "J6+"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A750"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A7 2018"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A6+ 2018"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A730"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A8+ 2018"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "J8"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "J8+"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "J410"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "J4 CORE"
+      },
+      {
+        "brand": "REDMI",
+        "model": "S2"
+      },
+      {
+        "brand": "REDMI",
+        "model": "Y2"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "6X"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "A2"
+      }
+    ]
+  },
+  {
+    "screen_ref": "F54",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "F54 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A80"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A90"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "C55 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M55 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 9S"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 9 PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 9 PRO MAX"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 12 PRO 4G"
+      },
+      {
+        "brand": "POCO",
+        "model": "X2"
+      },
+      {
+        "brand": "POCO",
+        "model": "X3"
+      },
+      {
+        "brand": "POCO",
+        "model": "X3 NFC"
+      },
+      {
+        "brand": "POCO",
+        "model": "M2 PRO"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "10T 5G"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "10T PRO 5G"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "10T LITE"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "Y7A"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "P SMART 2021"
+      },
+      {
+        "brand": "HONOR",
+        "model": "10X LITE"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A6",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A6"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "J6"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A8"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A5 2018"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A530"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A35",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A35"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A36"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A55"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A56"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M35 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "S24 FE"
+      }
+    ]
+  },
+  {
+    "screen_ref": "POVA 6 PRO 5G",
+    "brand_ref": "TECNO",
+    "compatible_models": [
+      {
+        "brand": "TECNO",
+        "model": "POVA 6 PRO 5G"
+      },
+      {
+        "brand": "TECNO",
+        "model": "CAMON 30 PRO"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 9 SE"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 11i"
+      },
+      {
+        "brand": "IQOO",
+        "model": "9"
+      },
+      {
+        "brand": "MOTO",
+        "model": "G POWER 2022"
+      }
+    ]
+  },
+  {
+    "screen_ref": "X7",
+    "brand_ref": "REALME",
+    "compatible_models": [
+      {
+        "brand": "REALME",
+        "model": "X7"
+      },
+      {
+        "brand": "REALME",
+        "model": "7 PRO"
+      },
+      {
+        "brand": "REALME",
+        "model": "8"
+      },
+      {
+        "brand": "REALME",
+        "model": "8 PRO"
+      },
+      {
+        "brand": "REALME",
+        "model": "9"
+      },
+      {
+        "brand": "REALME",
+        "model": "9 PRO +"
+      },
+      {
+        "brand": "REALME",
+        "model": "11"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 4"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A93"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A52"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A59 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A72"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A92"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A94 4G-5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 4 SE"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A74 4G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F17 PRO"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F19"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F19 PRO"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F21 PRO"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 7 LITE"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 6Z"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 7"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 8 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 7Z"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 8Z"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 8T"
+      },
+      {
+        "brand": "OPPO",
+        "model": "FIND X3 LITE"
+      },
+      {
+        "brand": "OPPO",
+        "model": "FIND X5 LITE"
+      },
+      {
+        "brand": "OPPO",
+        "model": "RENO 7 SE"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 12S"
+      }
+    ]
+  },
+  {
+    "screen_ref": "C55",
+    "brand_ref": "REALME",
+    "compatible_models": [
+      {
+        "brand": "REALME",
+        "model": "C55"
+      },
+      {
+        "brand": "REALME",
+        "model": "V50S 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "C67 4G"
+      },
+      {
+        "brand": "REALME",
+        "model": "C67 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "12 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "C65 4G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 12 4G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 12 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 12R PRO 5G"
+      },
+      {
+        "brand": "POCO",
+        "model": "X5"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y28 4G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A98 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A58 4G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A79 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F23 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A60"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A3X 4G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A3X 5G"
+      }
+    ]
+  },
+  {
+    "screen_ref": "REALME 6",
+    "brand_ref": "REALME",
+    "compatible_models": [
+      {
+        "brand": "REALME",
+        "model": "6"
+      },
+      {
+        "brand": "REALME",
+        "model": "6S"
+      },
+      {
+        "brand": "REALME",
+        "model": "7"
+      },
+      {
+        "brand": "REALME",
+        "model": "V5 5G"
+      },
+      {
+        "brand": "REALME",
+        "model": "Q2 5G"
+      },
+      {
+        "brand": "HONOR",
+        "model": "30S"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 7 SE"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "P40 LITE 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A73 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A74 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A53 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A54 5G"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A93 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "10 4G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "10 2022"
+      },
+      {
+        "brand": "REDMI",
+        "model": "10 PRIME"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 10 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 10T 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 11 4G"
+      },
+      {
+        "brand": "POCO",
+        "model": "M3 PRO"
+      }
+    ]
+  },
+  {
+    "screen_ref": "REALME C2",
+    "brand_ref": "REALME",
+    "compatible_models": [
+      {
+        "brand": "REALME",
+        "model": "C2"
+      },
+      {
+        "brand": "REALME",
+        "model": "C2S"
+      },
+      {
+        "brand": "REALME",
+        "model": "C2 2020"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "P30 LITE"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "NOVA 4E"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "P30 LITE 2020"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "P SMART 2019"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "P SMART 2020"
+      },
+      {
+        "brand": "HONOR",
+        "model": "10 LITE"
+      },
+      {
+        "brand": "HONOR",
+        "model": "10I"
+      },
+      {
+        "brand": "HONOR",
+        "model": "20I"
+      },
+      {
+        "brand": "HONOR",
+        "model": "20 LITE"
+      },
+      {
+        "brand": "HONOR",
+        "model": "20E"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A1K"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "A3"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "CC9E"
+      }
+    ]
+  },
+  {
+    "screen_ref": "REALME 2",
+    "brand_ref": "REALME",
+    "compatible_models": [
+      {
+        "brand": "REALME",
+        "model": "2"
+      },
+      {
+        "brand": "REALME",
+        "model": "C1"
+      },
+      {
+        "brand": "VIVO",
+        "model": "V9"
+      },
+      {
+        "brand": "VIVO",
+        "model": "X21"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y81"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y83"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y81I"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y83 PRO"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y85"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y89"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "8 LITE"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 6"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A3S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A5"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A12E"
+      },
+      {
+        "brand": "OPPO",
+        "model": "R15"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F7"
+      }
+    ]
+  },
+  {
+    "screen_ref": "REALME 2",
+    "brand_ref": "REALME",
+    "compatible_models": [
+      {
+        "brand": "REALME",
+        "model": "2"
+      },
+      {
+        "brand": "REALME",
+        "model": "C1"
+      },
+      {
+        "brand": "VIVO",
+        "model": "V9"
+      },
+      {
+        "brand": "VIVO",
+        "model": "X21"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y81"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y83"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y81I"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y83 PRO"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y85"
+      },
+      {
+        "brand": "VIVO",
+        "model": "Y89"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "8 LITE"
+      },
+      {
+        "brand": "REDMI",
+        "model": "NOTE 6"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A3S"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A5"
+      },
+      {
+        "brand": "OPPO",
+        "model": "A12E"
+      },
+      {
+        "brand": "OPPO",
+        "model": "R15"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F7"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A14",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A14 4G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A14 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M14 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F14 5G"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A24",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A24 4G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A25 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M34 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "F34 5G"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A01 CORE",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A01 CORE"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "M01 CORE"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "A3 CORE"
+      }
+    ]
+  },
+  {
+    "screen_ref": "A41",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "A41"
+      },
+      {
+        "brand": "HUAWEI",
+        "model": "P30"
+      }
+    ]
+  },
+  {
+    "screen_ref": "C71",
+    "brand_ref": "POCO",
+    "compatible_models": [
+      {
+        "brand": "POCO",
+        "model": "C71"
+      },
+      {
+        "brand": "POCO",
+        "model": "C75"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A3 PRO"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A4"
+      },
+      {
+        "brand": "REDMI",
+        "model": "14C"
+      },
+      {
+        "brand": "REDMI",
+        "model": "14R 5G"
+      },
+      {
+        "brand": "REDMI",
+        "model": "A5"
+      }
+    ]
+  },
+  {
+    "screen_ref": "IPHONE 16 PRO",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "16 PRO"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "17"
+      }
+    ]
+  },
+  {
+    "screen_ref": "M20",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "M20"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F9"
+      },
+      {
+        "brand": "OPPO",
+        "model": "F9 PRO"
+      },
+      {
+        "brand": "OPPO",
+        "model": "R17"
+      }
+    ]
+  },
+  {
+    "screen_ref": "11PRO MAX - XS MAX",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "11 PRO MAX"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "XS MAX"
+      }
+    ]
+  },
+  {
+    "screen_ref": "12PRO MAX",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "12 PRO MAX"
+      }
+    ]
+  },
+  {
+    "screen_ref": "13PRO MAX - 14 PLUS",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "13 PRO MAX"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "14 PLUS"
+      }
+    ]
+  },
+  {
+    "screen_ref": "14PRO MAX - 15 PLUS",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "14 PRO MAX"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "15 PLUS"
+      }
+    ]
+  },
+  {
+    "screen_ref": "15PRO - 16",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "15 PRO"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "16"
+      }
+    ]
+  },
+  {
+    "screen_ref": "15PRO MAX - 16 PLUS",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "15 PRO MAX"
+      },
+      {
+        "brand": "IPHONE",
+        "model": "16 PLUS"
+      }
+    ]
+  },
+  {
+    "screen_ref": "16 PRO",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "16 PRO"
+      }
+    ]
+  },
+  {
+    "screen_ref": "16 PRO MAX",
+    "brand_ref": "IPHONE",
+    "compatible_models": [
+      {
+        "brand": "IPHONE",
+        "model": "16 PRO MAX"
+      }
+    ]
+  },
+  {
+    "screen_ref": "S22 - S23",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "GALAXY S22 5G"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "GALAXY S23 5G"
+      }
+    ]
+  },
+  {
+    "screen_ref": "S22 PLUS - S23 PLUS",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "GALAXY S22 PLUS"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "GALAXY S23 PLUS"
+      }
+    ]
+  },
+  {
+    "screen_ref": "S22 ULTRA - S23 ULTRA",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "GALAXY S22 ULTRA"
+      },
+      {
+        "brand": "SAMSUNG",
+        "model": "GALAXY S23 ULTRA"
+      }
+    ]
+  },
+  {
+    "screen_ref": "S24",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "GALAXY S24"
+      }
+    ]
+  },
+  {
+    "screen_ref": "S24 PLUS",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "GALAXY S24 PLUS"
+      }
+    ]
+  },
+  {
+    "screen_ref": "S24 ULTRA",
+    "brand_ref": "SAMSUNG",
+    "compatible_models": [
+      {
+        "brand": "SAMSUNG",
+        "model": "GALAXY S24 ULTRA"
+      }
+    ]
+  },
+  {
+    "screen_ref": "PIXEL 6 - 6A",
+    "brand_ref": "GOOGLE",
+    "compatible_models": [
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 6"
+      },
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 6A"
+      }
+    ]
+  },
+  {
+    "screen_ref": "PIXEL 7 - 7A",
+    "brand_ref": "GOOGLE",
+    "compatible_models": [
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 7"
+      },
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 7A"
+      }
+    ]
+  },
+  {
+    "screen_ref": "PIXEL 8 - 8A",
+    "brand_ref": "GOOGLE",
+    "compatible_models": [
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 8"
+      },
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 8A"
+      }
+    ]
+  },
+  {
+    "screen_ref": "PIXEL 9 - 9 PRO",
+    "brand_ref": "GOOGLE",
+    "compatible_models": [
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 9"
+      },
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 9 PRO"
+      }
+    ]
+  },
+  {
+    "screen_ref": "PIXEL 8PRO - 9PRO XL",
+    "brand_ref": "GOOGLE",
+    "compatible_models": [
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 8 PRO"
+      },
+      {
+        "brand": "GOOGLE",
+        "model": "PIXEL 9 PRO XL"
+      }
+    ]
+  },
+  {
+    "screen_ref": "XIAOMI 13 - 14",
+    "brand_ref": "XIAOMI",
+    "compatible_models": [
+      {
+        "brand": "XIAOMI",
+        "model": "13"
+      },
+      {
+        "brand": "XIAOMI",
+        "model": "14"
+      }
+    ]
+  },
+  {
+    "screen_ref": "ONEPLUS 9PRO - 10PRO",
+    "brand_ref": "ONEPLUS",
+    "compatible_models": [
+      {
+        "brand": "ONEPLUS",
+        "model": "9 PRO"
+      },
+      {
+        "brand": "ONEPLUS",
+        "model": "10 PRO"
+      }
+    ]
+  }
+]

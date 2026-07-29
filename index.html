@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- PWA Manifest -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0f172a">
+<!-- Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+
+    <title>Mobile Parts Matrix - توافق الشاشات والبطاريات</title>
+</head>
+<body>
+    <!-- Background Effects -->
+    <div class="background-effects">
+        <div class="glow glow-1"></div>
+        <div class="glow glow-2"></div>
+    </div>
+
+    <!-- Language Popup -->
+    <div id="langPopup" class="popup-overlay active">
+        <div class="popup-content glass-card">
+            <h2 id="popupTitle">اختر لغتك<br><br>Select Language<br><br>Choisissez votre langue</h2>
+            <div class="lang-buttons">
+                <button onclick="setLanguage('ar')" class="btn-lang">العربية</button>
+                <button onclick="setLanguage('en')" class="btn-lang">English</button>
+                <button onclick="setLanguage('fr')" class="btn-lang">Français</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Container -->
+    <main class="container">
+        <!-- Header -->
+        <header style="text-align: center;">
+    <div class="header-top" style="justify-content: center; margin-bottom: 1rem;">
+        <a href="index.html" style="text-decoration: none;">
+            <h1 id="mainTitle" class="gradient-text">موسوعة توافق القطع</h1>
+        </a>
+    </div>
+    <p id="mainSubtitle" class="subtitle">دليل توافق الشاشات والبطاريات الأول للفنيين</p>
+    
+    <nav class="main-nav">
+        <a href="index.html">الرئيسية</a>
+        <a href="blog/index.html">المقالات</a>
+        <a href="about.html">من نحن</a>
+        <a href="privacy.html">سياسة الخصوصية</a>
+        <a href="contact.html">اتصل بنا</a>
+    </nav>
+</header>
+
+
+        <!-- Search Bar -->
+        <section class="search-section">
+            <div class="search-box glass-card">
+                <input type="text" id="searchInput" placeholder="ابحث باسم الهاتف أو رقم القطعة (مثال: Redmi Note 11 أو BN5D)" autocomplete="off">
+                <button id="searchBtn" class="btn-primary">بحث</button>
+            </div>
+            
+            <div class="filters">
+                <button class="filter-btn active" data-filter="all" id="filterAll">الكل</button>
+                <button class="filter-btn" data-filter="screen" id="filterScreens">شاشات</button>
+                <button class="filter-btn" data-filter="battery" id="filterBatteries">بطاريات</button>
+                
+                <!-- زر التحديث المجتمعي -->
+                <a href="https://forms.gle/your_google_form_link" target="_blank" class="filter-btn" id="btnSuggest" style="background: var(--primary); color: white; border-color: var(--primary); text-decoration: none; display: flex; align-items: center; gap: 0.5rem;">
+                    ➕ <span id="suggestText">اقتراح توافق جديد</span>
+                </a>
+            </div>
+        </section>
+
+        <!-- Results Area -->
+        <section class="results-section">
+            <div id="loading" class="hidden">
+                <div class="spinner"></div>
+            </div>
+            <div id="resultsContainer" class="results-grid">
+                <!-- Results will be injected here -->
+            </div>
+            <div id="noResults" class="hidden text-center text-muted">
+                <p>لم يتم العثور على نتائج.</p>
+            </div>
+        </section>
+        
+        <footer class="site-footer">
+    <p>&copy; 2026 موسوعة توافق القطع (Mobile Parts Matrix). جميع الحقوق محفوظة.</p>
+    <div style="margin-top: 1rem;">
+        <a href="index.html">الرئيسية</a> |
+        <a href="blog/index.html">دليل المقالات</a> |
+        <a href="about.html">من نحن</a> |
+        <a href="privacy.html">سياسة الخصوصية</a>
+    </div>
+</footer>
+
+    </main>
+
+    <script src="js/app.js"></script>
+    <script>
+        // PWA Service Worker Registration
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(reg => console.log('Service Worker Registered!', reg))
+                    .catch(err => console.error('Service Worker Error', err));
+            });
+        }
+    </script>
+</body>
+</html>

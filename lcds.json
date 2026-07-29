@@ -1,0 +1,2382 @@
+[
+  {
+    "lcd_ref": "iPhone X Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone X"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone XS Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone XS"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone XS Max Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone XS Max"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone XR Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone XR"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 11 Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 11"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 11 Pro Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 11 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 11 Pro Max Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 11 Pro Max"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 12 / 12 Pro Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 12"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 12 / 12 Pro Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 12 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 12 Pro Max Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 12 Pro Max"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 12 mini Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 12 mini"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 13 Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 13"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 13 mini Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 13 mini"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 13 Pro Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 13 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 13 Pro Max Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 13 Pro Max"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 14 Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 14"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 14 Plus Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 14 Plus"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 14 Pro Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 14 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 14 Pro Max Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 14 Pro Max"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 15 Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 15"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 15 Plus Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 15 Plus"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 15 Pro Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 15 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 15 Pro Max Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 15 Pro Max"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 16 Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 16"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 16 Plus Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 16 Plus"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 16 Pro Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 16 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "iPhone 16 Pro Max Screen",
+    "brand_ref": "Apple",
+    "compatible_models": [
+      {
+        "brand": "Apple",
+        "model": "iPhone 16 Pro Max"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S20 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S20"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S20 Plus Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S20 Plus"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S20 Ultra Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S20 Ultra"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S21 5G Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S21 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S21 Plus Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S21 Plus"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S21 Ultra Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S21 Ultra"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S21 FE Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S21 FE 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S22 5G Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S22 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S22 Plus Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S22 Plus"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S22 Ultra Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S22 Ultra"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S23 5G Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S23 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S23 Plus Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S23 Plus"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S23 Ultra Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S23 Ultra"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S24 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S24"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S24 Plus Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S24 Plus"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy S24 Ultra Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy S24 Ultra"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy Note 10 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Note 10"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy Note 10 Plus Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Note 10 Plus"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy Note 20 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Note 20"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy Note 20 Ultra Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Note 20 Ultra"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A10 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A10"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A20 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A20"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A30 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A30"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A30s Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A30s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A50 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A50"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A50s Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A50s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A51 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A51 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A52 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A52"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A52s Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A52s 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A53 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A53 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A54 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A54 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A55 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A55 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A12 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A12"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A02s Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A02s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy M12 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy M12"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A13 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A13"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A13 5G Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A13 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A23 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A23 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A03 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A03"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A03 Core Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A03 Core"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A22 4G Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A22 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy M32 4G Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy M32 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A31 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A31"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A32 4G Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A32 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A21s Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A21s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A14 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A14"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A14 5G Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A14 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A15 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A15"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A15 5G Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A15 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A25 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A25 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A24 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A24 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A34 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A34 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Galaxy A35 Screen",
+    "brand_ref": "Samsung",
+    "compatible_models": [
+      {
+        "brand": "Samsung",
+        "model": "Galaxy A35 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi 9A Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 9A"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi 9C Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 9C"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi 9AT Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 9AT"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi 10A Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 10A"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco C3 Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "C3"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco C31 Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "C31"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 9S Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 9S"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 9 Pro Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 9 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 9 Pro Max Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 9 Pro Max"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco M2 Pro Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "M2 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco X3 Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "X3"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco X3 NFC Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "X3 NFC"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco X3 Pro Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "X3 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 10 4G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 10 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 10S Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 10S"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 11 4G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 11 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 11S Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 11S"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco M4 Pro 4G Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "M4 Pro 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 11 Pro 4G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 11 Pro 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 11 Pro 5G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 11 Pro 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco X4 Pro 5G Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "X4 Pro 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 12 4G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 12 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 12 5G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 12 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco X5 Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "X5 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 12 Pro 5G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 12 Pro 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 12 Pro+ Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 12 Pro+ 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco X5 Pro Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "X5 Pro 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi 13C Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 13C 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi 13C 5G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 13C 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco C65 Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "C65"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 5 Pro Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 5 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 5 Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 5"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 7 Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 7"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 7 Pro Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 7 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 7S Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 7S"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi 8 Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 8"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi 8A Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 8A"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi 8A Dual Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi 8A Dual"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 13 4G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 13 5G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco M6 Pro Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "M6 Pro 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 13 Pro 5G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 Pro 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Poco X6 Screen",
+    "brand_ref": "Poco",
+    "compatible_models": [
+      {
+        "brand": "Poco",
+        "model": "X6 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Redmi Note 13 Pro+ Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 13 Pro+ 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Xiaomi 11T Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "11T"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Xiaomi 11T Pro Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "11T Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Mi 11 Lite Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Mi 11 Lite 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Mi 11 Lite 5G Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "Mi 11 Lite 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Xiaomi 11 Lite NE Screen",
+    "brand_ref": "Xiaomi",
+    "compatible_models": [
+      {
+        "brand": "Xiaomi",
+        "model": "11 Lite 5G NE"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A5 2020 Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A5 2020"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A9 2020 Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A9 2020"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme 5 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme 5"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme 5i Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme 5i"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme 5s Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme 5s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme 6i Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme 6i"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A15 Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A15"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A15s Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A15s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A16K Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A16K"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A35 Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A35"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C11 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C11"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C12 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C12"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C15 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C15"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme Narzo 20A Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme Narzo 20A"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme Narzo 30A Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme Narzo 30A"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C21 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C21"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C21Y Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C21Y"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C25 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C25"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C25s Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C25s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C25Y Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C25Y"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C51 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C51"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C51s Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C51s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme Note 50 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme Note 50"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C53 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C53"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme Narzo N53 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme Narzo N53"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme C55 Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme C55"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A54 4G Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A54 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A74 4G Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A74 4G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Realme 8 5G Screen",
+    "brand_ref": "Realme",
+    "compatible_models": [
+      {
+        "brand": "Realme",
+        "model": "Realme 8 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A16 Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A16"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A16s Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A16s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Oppo A54s Screen",
+    "brand_ref": "Oppo",
+    "compatible_models": [
+      {
+        "brand": "Oppo",
+        "model": "A54s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Huawei Y9 Prime 2019 Screen",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Y9 Prime 2019"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Huawei Y9s Screen",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Y9s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Huawei P Smart Z Screen",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "P Smart Z"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor 9X Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor 9X"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor 9X Pro Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor 9X Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor 10 Lite Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor 10 Lite"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Huawei P Smart 2019 Screen",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "P Smart 2019"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor 20i Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor 20i"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor 20 Lite Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor 20 Lite"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Huawei Y6 2019 Screen",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Y6 2019"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Huawei Y6S Screen",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Y6S"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor 8A Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor 8A"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor 8A Pro Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor 8A Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Huawei Nova 7i Screen",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Nova 7i"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Huawei P40 Lite Screen",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "P40 Lite"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Huawei Nova 6 SE Screen",
+    "brand_ref": "Huawei",
+    "compatible_models": [
+      {
+        "brand": "Huawei",
+        "model": "Nova 6 SE"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor X6 Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X6"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor X6s Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X6s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor X8 5G Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X8 5G"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor X7 Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X7"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor Play 30 Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor Play 30"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor X8 Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X8"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor X8a Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X8a"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor X9a Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X9a"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Honor X9b Screen",
+    "brand_ref": "Honor",
+    "compatible_models": [
+      {
+        "brand": "Honor",
+        "model": "Honor X9b"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y20 Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y20"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y20s Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y20s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y20i Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y20i"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y12s Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y12s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y15s Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y15s"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y30 Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y30"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y30i Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y30i"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y91 Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y91"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y91i Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y91i"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y93 Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y93"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y95 Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y95"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y1S Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y1S"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y17 Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y17"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y12 Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y12"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Vivo Y15 Screen",
+    "brand_ref": "Vivo",
+    "compatible_models": [
+      {
+        "brand": "Vivo",
+        "model": "Y15"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Smart 5 Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Smart 5"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Hot 10 Lite Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 10 Lite"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Tecno Spark 6 Go Screen",
+    "brand_ref": "Tecno",
+    "compatible_models": [
+      {
+        "brand": "Tecno",
+        "model": "Spark 6 Go"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Tecno Spark Go 2020 Screen",
+    "brand_ref": "Tecno",
+    "compatible_models": [
+      {
+        "brand": "Tecno",
+        "model": "Spark Go 2020"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Hot 10 Play Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 10 Play"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Hot 11 Play Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 11 Play"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Smart 6 Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Smart 6"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Smart 6 HD Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Smart 6 HD"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Tecno Spark 8C Screen",
+    "brand_ref": "Tecno",
+    "compatible_models": [
+      {
+        "brand": "Tecno",
+        "model": "Spark 8C"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Tecno Spark 9 Screen",
+    "brand_ref": "Tecno",
+    "compatible_models": [
+      {
+        "brand": "Tecno",
+        "model": "Spark 9"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Hot 30i Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 30i"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Smart 8 Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Smart 8"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Tecno Spark 20C Screen",
+    "brand_ref": "Tecno",
+    "compatible_models": [
+      {
+        "brand": "Tecno",
+        "model": "Spark 20C"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Tecno Pop 8 Screen",
+    "brand_ref": "Tecno",
+    "compatible_models": [
+      {
+        "brand": "Tecno",
+        "model": "Pop 8"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Hot 30 Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 30"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Tecno Spark 10 Pro Screen",
+    "brand_ref": "Tecno",
+    "compatible_models": [
+      {
+        "brand": "Tecno",
+        "model": "Spark 10 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Hot 40 Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 40"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Infinix Hot 40 Pro Screen",
+    "brand_ref": "Infinix",
+    "compatible_models": [
+      {
+        "brand": "Infinix",
+        "model": "Hot 40 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Tecno Spark 20 Pro Screen",
+    "brand_ref": "Tecno",
+    "compatible_models": [
+      {
+        "brand": "Tecno",
+        "model": "Spark 20 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Nokia G10 Screen",
+    "brand_ref": "Nokia",
+    "compatible_models": [
+      {
+        "brand": "Nokia",
+        "model": "G10"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Nokia G20 Screen",
+    "brand_ref": "Nokia",
+    "compatible_models": [
+      {
+        "brand": "Nokia",
+        "model": "G20"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Nokia G21 Screen",
+    "brand_ref": "Nokia",
+    "compatible_models": [
+      {
+        "brand": "Nokia",
+        "model": "G21"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Nokia G22 Screen",
+    "brand_ref": "Nokia",
+    "compatible_models": [
+      {
+        "brand": "Nokia",
+        "model": "G22"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Nokia 2.3 Screen",
+    "brand_ref": "Nokia",
+    "compatible_models": [
+      {
+        "brand": "Nokia",
+        "model": "2.3"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Nokia 2.4 Screen",
+    "brand_ref": "Nokia",
+    "compatible_models": [
+      {
+        "brand": "Nokia",
+        "model": "2.4"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Itel A56 Screen",
+    "brand_ref": "Itel",
+    "compatible_models": [
+      {
+        "brand": "Itel",
+        "model": "A56"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Itel A56 Pro Screen",
+    "brand_ref": "Itel",
+    "compatible_models": [
+      {
+        "brand": "Itel",
+        "model": "A56 Pro"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Itel A60 Screen",
+    "brand_ref": "Itel",
+    "compatible_models": [
+      {
+        "brand": "Itel",
+        "model": "A60"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Moto G10 Screen",
+    "brand_ref": "Moto",
+    "compatible_models": [
+      {
+        "brand": "Moto",
+        "model": "G10"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Moto G20 Screen",
+    "brand_ref": "Moto",
+    "compatible_models": [
+      {
+        "brand": "Moto",
+        "model": "G20"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Moto G30 Screen",
+    "brand_ref": "Moto",
+    "compatible_models": [
+      {
+        "brand": "Moto",
+        "model": "G30"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Pixel 6 Screen",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 6"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Pixel 6A Screen",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 6A"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Pixel 7 Screen",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 7"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Pixel 8 Screen",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 8"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Pixel 9 Screen",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 9"
+      }
+    ]
+  },
+  {
+    "lcd_ref": "Pixel 9 Pro Screen",
+    "brand_ref": "Google",
+    "compatible_models": [
+      {
+        "brand": "Google",
+        "model": "Pixel 9 Pro"
+      }
+    ]
+  }
+]
