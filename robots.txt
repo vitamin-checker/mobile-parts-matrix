@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vitamin-checker.github.io/mobile-parts-matrix/sitemap.xml
+Sitemap: https://vitamin-checker.github.io/sitemap.xml
